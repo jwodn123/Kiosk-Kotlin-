@@ -5,7 +5,5 @@ interface Product {
     var price: Double
     var description: String
 
-    fun print() {
-        println("${name}  |  W ${price}  | ${description}")
-    }
+
 }
